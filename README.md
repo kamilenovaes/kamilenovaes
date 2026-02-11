@@ -1,10 +1,6 @@
 <h1 align="center">Oi, sou Kamile! 😸</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kamilenovaes&label=Profile%20Views&color=0e75b6&style=flat" alt="kamile-views" />
-</p>
-
-<p align="center">
  🎓 <b>Ciência da Computação na UFF</b> | 📊 Explorando Data Science, Analytics & IA
 </p>
 
