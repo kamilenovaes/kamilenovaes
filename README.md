@@ -52,7 +52,7 @@ Minha caixa de ferramentas de Data Science e BI:
 
 <div align="center">
   <a href="https://github.com/kamilenovaes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamilenovaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamilenovaes&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilenovaes&layout=compact&theme=dracula"/>
   </a>
 </div>
